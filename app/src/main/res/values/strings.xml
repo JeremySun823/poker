@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PokerHelper</string>
+
+    <string name="suit_name_diamond">♦</string>
+    <string name="suit_name_club">♣</string>
+    <string name="suit_name_heart">♥</string>
+    <string name="suit_name_spade">♠</string>
+
+    <string name="point_name_A">A</string>
+    <string name="point_name_P2">2</string>
+    <string name="point_name_P3">3</string>
+    <string name="point_name_P4">4</string>
+    <string name="point_name_P5">5</string>
+    <string name="point_name_P6">6</string>
+    <string name="point_name_P7">7</string>
+    <string name="point_name_P8">8</string>
+    <string name="point_name_P9">9</string>
+    <string name="point_name_P10">10</string>
+    <string name="point_name_J">J</string>
+    <string name="point_name_Q">Q</string>
+    <string name="point_name_K">K</string>
+</resources>
